@@ -78,8 +78,8 @@ Then open your browser at **http://localhost:3100**
 
 ## Talk Resources
 
-- 🎤 **Slides:** [ReactJS Day 2025 – React and the Art of Gamification (PDF)](https://example.com/slides)
-- 💻 **Demo Repo:** [GitHub Repository](https://github.com/courtneyyatteau/react-gamification-quest-app)
+- 🎤 **Slides:** [ReactJS Day 2025 – React and the Art of Gamification (PDF)](https://github.com/cyatteau/gamification-reactjsday-2025/blob/main/presentation-slides.pdf)
+- 💻 **Demo:** [GitHub Repository](https://github.com/courtneyyatteau/react-gamification-quest-app)
 
 ---
 
